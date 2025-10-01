@@ -26,7 +26,7 @@ Advancing from automation tester to SDET mastery by exploring diverse automation
 ## 🗂️ Repository Structure
 
 ```
-qa-to-sdet-mastery/
+sdet-mastery-journey/
 ├── python/     # Core Python concepts and exercises
 ├── leetcode-solutions/      # Algorithm practice and problem solving
 ├── udemy-courses/          # Course-specific practice code
