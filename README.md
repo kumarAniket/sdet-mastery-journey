@@ -1,46 +1,94 @@
-# SDET Mastery Journey
+# 🚀 SDET Mastery Journey
 
-**Code practice and projects for SDET transition journey**
+**From Senior Test Engineer ➝ SDET ➝ FAANG Ready**  
 
-Welcome to my transformation journey from QA Engineer to Software Development Engineer in Test (SDET). This repository showcases my coding practice, automation projects, and continuous learning in test automation and development.
+Welcome to my transformation journey from **Senior Test Engineer** to a **Software Development Engineer in Test (SDET)**.  
+This repository is my learning log, practice ground, and portfolio — aligned with my **FAANG-ready SDET Mastery Plan**.  
+
+---
 
 ## 🎯 Mission
 
-Advancing from automation tester to SDET mastery by exploring diverse automation types, mastering advanced tools, and deepening expertise in test automation frameworks and software development practices.
+> *"The expert in anything was once a beginner who refused to give up."* – Helen Hayes  
 
-## 📚 Learning Path
+- Build **strong coding & system design skills**  
+- Master **automation frameworks, cloud, gRPC, and data/ML testing**  
+- Gain expertise in **Google/Amazon-focused technologies**  
+- Become a **premium candidate** for high-paying SDET roles  
 
-### Current Focus: Python Fundamentals
-- **Programming Basics**: Variables, data types, control structures
-- **Object-Oriented Programming**: Classes, inheritance, polymorphism
-- **Data Structures & Algorithms**: Lists, dictionaries, sets, algorithms
-- **Testing Frameworks**: pytest, unittest, test automation patterns
+---
 
-### Upcoming Topics
-- API Testing with Python (requests, REST APIs)
-- Web Automation (Selenium WebDriver)
-- CI/CD Integration
-- Database Testing
-- Performance Testing
+## 📚 Learning Path (High-Level)
+
+### 🔑 Core Skills
+- **Programming Fundamentals & Advanced Python**
+- **QA Foundations & Testing Theory (ISTQB)**
+- **Web & Frontend Testing (React, Angular, Jest)**
+- **Automation Frameworks (Selenium, Playwright, Pact, Pytest, Robot Framework)**
+- **gRPC & Microservices Testing**
+- **Mobile Testing (Espresso, Appium)**
+- **Cloud Infrastructure (AWS + GCP)**
+- **CI/CD & DevOps (Jenkins, GitHub Actions, Bazel, Docker, Kubernetes, Terraform)**
+- **Database & Data Pipeline Testing (SQL, Kafka, Spark, Airflow)**
+- **Performance & Reliability (JMeter, Locust, SRE, Observability)**
+- **Security & DevSecOps**
+- **AI/ML Model Testing**
+
+---
+
+## 🏆 Certification Roadmap
+
+- 📌 **Month 3** → ISTQB Foundation Level  
+- 📌 **Month 6** → Google Cloud Associate Cloud Engineer  
+- 📌 **Month 9** → AWS Developer Associate  
+- 📌 **Month 12** → CKAD (Kubernetes)  
+- 📌 **Month 15** → Google Cloud DevOps Engineer  
+- 📌 **Month 18** → ISTQB Advanced Level – Test Automation Engineer  
+- 📌 **Month 21** → TensorFlow Developer Certificate  
+- 📌 **Month 24** → Certified Ethical Hacker (Optional)  
+
+---
+
+## 📊 Progress Dashboard
+
+| Category                 |      Status    |       Duration     |
+|--------------------------|----------------|--------------------|
+| Python Mastery           | ⬜ Not Started |                    |
+| QA Foundations           | ⬜ Not Started |                    |
+| Web & Frontend           | ⬜ Not Started |                    |
+| Automation Frameworks    | ⬜ Not Started |                    |
+| Accessibility Testing    | ⬜ Not Started |                    |
+| Visual/UI Testing        | ⬜ Not Started |                    |
+| gRPC & Microservices     | ⬜ Not Started |                    |
+| Mobile Testing           | ⬜ Not Started |                    |
+| AWS & GCP                | ⬜ Not Started |                    |
+| CI/CD & DevOps           | ⬜ Not Started |                    |
+| Data Pipelines           | ⬜ Not Started |                    |
+| Performance & SRE        | ⬜ Not Started |                    |
+| Observability            | ⬜ Not Started |                    |
+| Security & DevSecOps     | ⬜ Not Started |                    |
+| AI/ML Testing            | ⬜ Not Started |                    |
+| Certifications           | ⬜ Not Started |                    |
+
+Legend: ⬜ Not Started | 🟨 In Progress | ✅ Completed  
+
+---
 
 ## 🗂️ Repository Structure
 
-```
+```bash
 sdet-mastery-journey/
-├── python/     # Core Python concepts and exercises
-├── leetcode-solutions/      # Algorithm practice and problem solving
-├── udemy-courses/          # Course-specific practice code
-├── automation-projects/    # End-to-end automation projects
-├── api-testing/           # API testing scripts and frameworks
-├── web-testing/           # Web automation practice
-└── utils/                 # Reusable utilities and helpers
-```
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+├── python/               # Core Python practice & DSA
+├── leetcode-solutions/   # Problem solving & algorithms
+├── qa-foundations/       # Testing theory, ISTQB prep
+├── web-frontend/         # React, Angular, Jest testing
+├── automation-projects/  # Selenium, Playwright, Pact, Robot
+├── grpc-microservices/   # gRPC & Protobuf testing
+├── mobile-testing/       # Espresso, Appium scripts
+├── cloud/                # AWS & GCP practice
+├── cicd-devops/          # Jenkins, GitHub Actions, Bazel
+├── data-pipelines/       # Kafka, Spark, Airflow, BigQuery
+├── performance-sre/      # JMeter, Locust, Observability
+├── security/             # DevSecOps, OWASP
+├── ai-ml-testing/        # ML model validation, TensorFlow
+└── utils/                # Reusable helpers
